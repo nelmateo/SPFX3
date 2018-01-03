@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "command-extension",
+    "libraryId": "d35e879a-69e8-4645-b454-bc2f7bb15b90",
+    "environment": "spo"
+  }
+}
